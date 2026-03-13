@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Who founded Dave's Hot Chicken?",
+    "expected_source_id": "restaurant-history-002",
+    "expected_answer_contains": ["Dave Kopushyan", "Arman Oganesyan"]
+  },
+  {
+    "question": "What vegan hacks do some customers attempt at Dave's Hot Chicken?",
+    "expected_source_id": "restaurant-history-114",
+    "expected_answer_contains": ["cauliflower", "cross-contact"]
+  },
+  {
+    "question": "When was Dave's Hot Chicken founded?",
+    "expected_source_id": "restaurant-history-001",
+    "expected_answer_contains": ["May 2, 2017"]
+  }
+]

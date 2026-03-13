@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DaveRAG Console</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <aside class="brand-rail">
+        <div class="brand-mark">
+          <img
+            src="https://a.storyblok.com/f/269701/146x150/e8a49359b8/dhc_logo_icon.svg"
+            alt="Dave's Hot Chicken logo"
+          />
+          <div>
+            <p class="eyebrow">Local RAG Console</p>
+            <h1>DaveRAG</h1>
+          </div>
+        </div>
+
+        <div class="hero-card">
+          <img
+            src="https://store.daveshotchicken.com/wp-content/uploads/2023/01/1246_DHC22HandoutMenu8.5x5.5_M1-TierI-NoBeer-nopricesnocalories-ImageforWeb.jpg"
+            alt="Dave's Hot Chicken menu"
+          />
+          <div class="hero-copy">
+            <p class="eyebrow">Grounded Menu QA</p>
+            <h2>Ask broad questions. Inspect the evidence.</h2>
+            <p>
+              This UI shows the generated answer, citations, retrieval scores, confidence, and context
+              sufficiency in one place.
+            </p>
+          </div>
+        </div>
+
+        <div class="promo-grid">
+          <article class="promo-card">
+            <img
+              src="https://restaurants.daveshotchicken.com/wp-content/uploads/2023/11/hero3.webp"
+              alt="Dave's Hot Chicken sliders"
+            />
+            <span>Sliders</span>
+          </article>
+          <article class="promo-card">
+            <img
+              src="https://restaurants.daveshotchicken.com/wp-content/uploads/2023/11/hero1.webp"
+              alt="Dave's Hot Chicken tenders"
+            />
+            <span>Tenders</span>
+          </article>
+          <article class="promo-card">
+            <img
+              src="https://restaurants.daveshotchicken.com/wp-content/uploads/2023/11/Daves-Hot-Chicken-Oreo-MandM-Shakea.webp"
+              alt="Dave's Hot Chicken shakes"
+            />
+            <span>Shakes</span>
+          </article>
+        </div>
+      </aside>
+
+      <main class="workspace">
+        <section class="chat-panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Chat</p>
+              <h2>Ask the bot</h2>
+            </div>
+            <div class="status-pill" id="request-state">Idle</div>
+          </div>
+
+          <form id="chat-form" class="composer">
+            <label class="sr-only" for="question">Question</label>
+            <textarea
+              id="question"
+              name="question"
+              rows="3"
+              placeholder="Ask about combos, spice levels, history, vegan options, or shakes..."
+            ></textarea>
+            <div class="composer-row">
+              <input id="topic" name="topic" type="text" placeholder="Optional topic filter" />
+              <button type="submit">Ask DaveRAG</button>
+            </div>
+          </form>
+
+          <div class="trace-strip" id="trace-strip">
+            <div class="trace-step">Awaiting question</div>
+          </div>
+
+          <div class="message-stack">
+            <article class="message user seeded">
+              <span class="message-role">Prompt</span>
+              <p>What are Dave's #1, #2, #3, and #4 combo meals, and do they have shakes?</p>
+            </article>
+
+            <article class="message assistant" id="assistant-message">
+              <span class="message-role">Answer</span>
+              <p id="answer-text">
+                Ask a question to see the answer type out here and the retrieval trace update beside it.
+              </p>
+            </article>
+          </div>
+        </section>
+
+        <section class="inspector-panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Inspector</p>
+              <h2>Retrieval trace</h2>
+            </div>
+          </div>
+
+          <div class="metrics-grid">
+            <article class="metric-card">
+              <span>Confidence</span>
+              <strong id="confidence">-</strong>
+            </article>
+            <article class="metric-card">
+              <span>Insufficient Context</span>
+              <strong id="insufficient-context">-</strong>
+            </article>
+            <article class="metric-card">
+              <span>Sources Used</span>
+              <strong id="source-count">0</strong>
+            </article>
+          </div>
+
+          <div class="inspector-section">
+            <div class="section-head">
+              <h3>Sources</h3>
+              <span id="source-caption">Citations used in the final answer.</span>
+            </div>
+            <div id="sources" class="sources-list empty-state">No sources yet.</div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="/static/app.js" defer></script>
+  </body>
+  </html>

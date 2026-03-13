@@ -1,0 +1,1776 @@
+[
+  {
+    "source_id": "restaurant-history-001",
+    "title": "When was Dave's Hot Chicken founded?",
+    "text": "Question: When was Dave's Hot Chicken founded?\nAnswer: Dave's Hot Chicken was founded on May 2, 2017.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-002",
+    "title": "Who founded Dave's Hot Chicken?",
+    "text": "Question: Who founded Dave's Hot Chicken?\nAnswer: Dave's Hot Chicken was founded by four Armenian-American childhood friends: Dave Kopushyan, Arman Oganesyan, and brothers Tommy and Gary Rubenyan.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-003",
+    "title": "Where did Dave's Hot Chicken originally start?",
+    "text": "Question: Where did Dave's Hot Chicken originally start?\nAnswer: Dave's Hot Chicken began as a street-food pop-up operating in a parking lot in East Hollywood, Los Angeles.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-004",
+    "title": "How much money was used to start Dave's Hot Chicken?",
+    "text": "Question: How much money was used to start Dave's Hot Chicken?\nAnswer: The founders launched the original Dave's Hot Chicken pop-up with an initial investment of $900.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-005",
+    "title": "What equipment did the original Dave's Hot Chicken pop-up use?",
+    "text": "Question: What equipment did the original Dave's Hot Chicken pop-up use?\nAnswer: The original pop-up used very minimal infrastructure, including a single portable fryer, folding tables, and high-intensity heat lamps.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-006",
+    "title": "What challenges did the original Dave's Hot Chicken pop-up face?",
+    "text": "Question: What challenges did the original Dave's Hot Chicken pop-up face?\nAnswer: The early pop-up operated with lean infrastructure and faced operational risks, including outdoor conditions where heat lamps were often battered by the night winds of Los Angeles.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-007",
+    "title": "How has Dave's Hot Chicken grown since its founding?",
+    "text": "Question: How has Dave's Hot Chicken grown since its founding?\nAnswer: Since its founding in 2017, Dave's Hot Chicken has grown from a small street-food pop-up into a global fast-casual restaurant brand.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-008",
+    "title": "What was Dave's Hot Chicken valued at by 2025?",
+    "text": "Question: What was Dave's Hot Chicken valued at by 2025?\nAnswer: By 2025, Dave's Hot Chicken had reached a valuation of approximately one billion dollars.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-009",
+    "title": "Which investment firm backed Dave's Hot Chicken?",
+    "text": "Question: Which investment firm backed Dave's Hot Chicken?\nAnswer: Dave's Hot Chicken received backing from the private equity firm Roark Capital.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-010",
+    "title": "Which celebrities invested in Dave's Hot Chicken?",
+    "text": "Question: Which celebrities invested in Dave's Hot Chicken?\nAnswer: Celebrity investors in Dave's Hot Chicken include Drake and Samuel L. Jackson.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-001",
+    "title": "What food style is Dave's Hot Chicken associated with?",
+    "text": "Question: What food style is Dave's Hot Chicken associated with?\nAnswer: Dave's Hot Chicken specializes in Nashville-style hot chicken.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-011",
+    "title": "What future financial milestone is Dave's Hot Chicken preparing for?",
+    "text": "Question: What future financial milestone is Dave's Hot Chicken preparing for?\nAnswer: Dave's Hot Chicken is positioning itself for a potential initial public offering (IPO) expected in the late 2020s.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-012",
+    "title": "What cultural context influenced the creation of Dave's Hot Chicken?",
+    "text": "Question: What cultural and economic context influenced the creation of Dave's Hot Chicken?\nAnswer: Dave's Hot Chicken emerged in Los Angeles during the mid-2010s when Nashville-style hot chicken was gaining popularity in the city.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-013",
+    "title": "What background did the founders of Dave's Hot Chicken come from?",
+    "text": "Question: What background did the founders of Dave's Hot Chicken come from?\nAnswer: The founders grew up in Hollywood, Los Angeles, and had limited financial resources when starting the business.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-002",
+    "title": "What local restaurant helped inspire the Dave's Hot Chicken concept?",
+    "text": "Question: Which local restaurant helped inspire the Dave's Hot Chicken concept?\nAnswer: The founders were inspired by the popularity of Nashville-style hot chicken restaurants such as Howlin’ Ray’s in Los Angeles.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-014",
+    "title": "What operational model influenced the founders of Dave's Hot Chicken?",
+    "text": "Question: Which restaurant's operational model influenced the founders of Dave's Hot Chicken?\nAnswer: The founders aimed to replicate the no-frills operational efficiency of In-N-Out Burger.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-001",
+    "title": "Why did Dave's Hot Chicken use a limited menu?",
+    "text": "Question: Why did Dave's Hot Chicken maintain a limited menu?\nAnswer: The limited menu allowed the founders to focus on quality and consistency while maintaining operational efficiency.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-002",
+    "title": "What menu items did Dave's Hot Chicken focus on initially?",
+    "text": "Question: Which menu items did Dave's Hot Chicken initially focus on?\nAnswer: The founders focused primarily on chicken tenders and sliders.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-003",
+    "title": "What texture characteristics define Dave's Hot Chicken?",
+    "text": "Question: What texture characteristics define Dave's Hot Chicken?\nAnswer: The founders perfected a \"shaggy\" texture and strong moisture retention, which became the brand's signature.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-001",
+    "title": "How did digital media influence Dave's Hot Chicken's early success?",
+    "text": "Question: How did digital food journalism influence the early success of Dave's Hot Chicken?\nAnswer: A feature by Eater LA reporter Farley Elliott praising the chicken helped rapidly increase public attention and demand.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-002",
+    "title": "Who wrote the article that helped Dave's Hot Chicken go viral?",
+    "text": "Question: Who wrote the article that helped Dave's Hot Chicken gain viral attention?\nAnswer: Eater LA reporter Farley Elliott wrote a feature describing the chicken as \"mind-blowing,\" which drove large crowds to the stand.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-003",
+    "title": "What happened after the viral media coverage of Dave's Hot Chicken?",
+    "text": "Question: What happened after Dave's Hot Chicken received viral media coverage?\nAnswer: After the media feature, customer demand surged, leading to lines wrapping around city blocks.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-015",
+    "title": "Did the original Dave's Hot Chicken pop-up have permits?",
+    "text": "Question: Did the original Dave's Hot Chicken pop-up initially have formal permits?\nAnswer: No, the early street-level pop-up initially operated without formal permits.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-016",
+    "title": "When did Dave's Hot Chicken open its first permanent location?",
+    "text": "Question: When did Dave's Hot Chicken open its first brick-and-mortar location?\nAnswer: The first permanent brick-and-mortar Dave's Hot Chicken restaurant opened in late 2018.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-017",
+    "title": "Where was the first brick-and-mortar Dave's Hot Chicken location?",
+    "text": "Question: Where was the first brick-and-mortar Dave's Hot Chicken location opened?\nAnswer: The first brick-and-mortar location opened in a strip mall on Western Avenue in Los Angeles.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-018",
+    "title": "What did opening the first restaurant signify for Dave's Hot Chicken?",
+    "text": "Question: What did opening the first brick-and-mortar location signify for Dave's Hot Chicken?\nAnswer: Opening the restaurant marked the transition from a street-level pop-up operation to a legitimate and institutionalized commercial business.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-019",
+    "title": "What milestone occurred for Dave's Hot Chicken in 2017?",
+    "text": "Question: What milestone occurred for Dave's Hot Chicken in 2017?\nAnswer: In 2017, Dave's Hot Chicken began as a $900 parking lot pop-up, establishing its renegade brand identity and proving its concept through viral popularity.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-020",
+    "title": "What was the significance of the 2018 brick-and-mortar opening?",
+    "text": "Question: What was the significance of Dave's Hot Chicken opening its first brick-and-mortar location in 2018?\nAnswer: The 2018 brick-and-mortar opening legitimized the brand and helped stabilize supply chain logistics.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-021",
+    "title": "What major partnership happened in 2019 for Dave's Hot Chicken?",
+    "text": "Question: What major partnership did Dave's Hot Chicken form in 2019?\nAnswer: In 2019, Dave's Hot Chicken formed a franchise partnership with Phelps and Davis, shifting the business model from owner-operator restaurants to rapid national expansion.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-004",
+    "title": "What impact did Drake's investment have on Dave's Hot Chicken?",
+    "text": "Question: What impact did Drake's investment have on Dave's Hot Chicken in 2021?\nAnswer: Drake's celebrity investment helped transform Dave's Hot Chicken into a global pop-culture phenomenon.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-022",
+    "title": "Where did Dave's Hot Chicken expand internationally in 2024?",
+    "text": "Question: Where did Dave's Hot Chicken expand internationally in 2024?\nAnswer: In 2024, Dave's Hot Chicken expanded into the United Kingdom and the Middle East.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-023",
+    "title": "What did the 2024 expansion prove for Dave's Hot Chicken?",
+    "text": "Question: What did Dave's Hot Chicken's 2024 expansion into the UK and Middle East demonstrate?\nAnswer: The expansion validated the international appeal of the Nashville-style hot chicken concept.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-024",
+    "title": "What happened when Roark Capital acquired a majority stake?",
+    "text": "Question: What happened when Roark Capital acquired a majority stake in Dave's Hot Chicken in 2025?\nAnswer: The acquisition established a $1 billion valuation and provided institutional resources for further growth.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-025",
+    "title": "Who became CEO of Dave's Hot Chicken in 2026?",
+    "text": "Question: Who became CEO of Dave's Hot Chicken in 2026?\nAnswer: Jim Bitticks was promoted to CEO of Dave's Hot Chicken in 2026.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-026",
+    "title": "What strategic goal followed Jim Bitticks becoming CEO?",
+    "text": "Question: What strategic goal followed Jim Bitticks becoming CEO of Dave's Hot Chicken?\nAnswer: His promotion positioned the company for a three-year push toward a potential initial public offering (IPO).",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-004",
+    "title": "What culinary background did Dave Kopushyan have?",
+    "text": "Question: What culinary background did Dave Kopushyan have before founding Dave's Hot Chicken?\nAnswer: Dave Kopushyan trained at Thomas Keller’s Michelin-starred restaurants The French Laundry and the Bouchon organization.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-005",
+    "title": "How did Dave Kopushyan's professional training influence the food?",
+    "text": "Question: How did Dave Kopushyan's professional culinary training influence Dave's Hot Chicken?\nAnswer: His professional training provided technical rigor that helped engineer a higher-quality fried chicken product compared to many fast-casual competitors.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-006",
+    "title": "What cooking techniques differentiate Dave's Hot Chicken?",
+    "text": "Question: What cooking techniques differentiate Dave's Hot Chicken from many fast-casual fried chicken restaurants?\nAnswer: The brand uses proprietary brining and coating techniques designed to enhance protein denaturation and moisture retention in the chicken.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-007",
+    "title": "What scientific principles are used in the chicken preparation?",
+    "text": "Question: What scientific principles are used in the preparation of Dave's Hot Chicken?\nAnswer: The preparation focuses on chemical processes such as protein denaturation and moisture retention to improve texture and juiciness.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-027",
+    "title": "Where was Dave Kopushyan working when the concept started?",
+    "text": "Question: Where was Dave Kopushyan working when Dave's Hot Chicken was first developed?\nAnswer: At the time of the brand’s inception, Dave Kopushyan was working at Elf Café in Echo Park.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-005",
+    "title": "Was Dave Kopushyan eating meat when developing the recipe?",
+    "text": "Question: Was Dave Kopushyan eating meat when he developed the Dave's Hot Chicken recipe?\nAnswer: No, at the time he was a vegetarian, which allowed him to approach the recipe development analytically rather than based on personal meat preferences.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-003",
+    "title": "What cuisine is the core concept of Dave's Hot Chicken based on?",
+    "text": "Question: What cuisine forms the core concept of Dave's Hot Chicken?\nAnswer: The core concept of Dave's Hot Chicken is based on Nashville-style hot chicken.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-006",
+    "title": "What cultural influences shaped the flavor of Dave's Hot Chicken?",
+    "text": "Question: What cultural influences shaped the flavor profile of Dave's Hot Chicken?\nAnswer: The flavor incorporates Armenian spice influences along with techniques and feedback from Korean and Southern roommates during early tasting sessions.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-007",
+    "title": "Who helped test the early recipes for Dave's Hot Chicken?",
+    "text": "Question: Who participated in early tasting sessions when developing Dave's Hot Chicken recipes?\nAnswer: Korean and Southern roommates helped participate in early tasting sessions and contributed feedback to the recipe development.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-008",
+    "title": "What brining process is used for Dave's Hot Chicken?",
+    "text": "Question: What brining process is used for Dave's Hot Chicken?\nAnswer: Dave's Hot Chicken uses a 24-hour brining process to ensure the chicken tenders remain juicy even after intense frying.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-009",
+    "title": "Why is the chicken brined for 24 hours?",
+    "text": "Question: Why is the chicken brined for 24 hours in Dave's Hot Chicken preparation?\nAnswer: The 24-hour brine helps the chicken retain moisture so the tenders remain succulent even after being fried to achieve a crunchy crust.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-010",
+    "title": "What is the buttermilk-pickle matrix in Dave's Hot Chicken?",
+    "text": "Question: What is the buttermilk-pickle matrix used in Dave's Hot Chicken preparation?\nAnswer: The chicken is soaked in a mixture of buttermilk and dill pickle juice, sometimes supplemented with mild hot sauces such as Texas Pete or Frank's.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-011",
+    "title": "How does the brine improve the chicken texture?",
+    "text": "Question: How does the brine improve the texture of Dave's Hot Chicken?\nAnswer: The lactic acid in buttermilk and the vinegar-salt mixture in pickle juice break down connective tissues and draw moisture deep into the meat.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-012",
+    "title": "What salt concentration is ideal for the brine?",
+    "text": "Question: What salt concentration is recommended for the Dave's Hot Chicken brine?\nAnswer: The ideal brine salt concentration is approximately 2 percent by weight.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-013",
+    "title": "Where does the 2 percent brine standard come from?",
+    "text": "Question: Where does the 2 percent salt brine standard referenced in Dave's Hot Chicken preparation come from?\nAnswer: The 2 percent salt concentration is derived from modern fermentation and curing practices described in sources such as the Noma Guide to Fermentation.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-014",
+    "title": "What is the shaggy dredge technique?",
+    "text": "Question: What is the shaggy dredge technique used in Dave's Hot Chicken?\nAnswer: The shaggy dredge refers to a breading process that combines all-purpose flour and cornstarch to create a rough, craggly coating.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-015",
+    "title": "Why is cornstarch used in the dredge?",
+    "text": "Question: Why is cornstarch added to the breading mixture for Dave's Hot Chicken?\nAnswer: Cornstarch inhibits gluten development, which helps produce a crispier and more textured coating.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-016",
+    "title": "Why is the coating texture important for Dave's Hot Chicken?",
+    "text": "Question: Why is a craggly coating important for Dave's Hot Chicken?\nAnswer: The craggly coating increases surface area, allowing the post-fry spice paste to adhere more effectively to the chicken.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-004",
+    "title": "How is spice applied to Dave's Hot Chicken?",
+    "text": "Question: How is spice applied to Dave's Hot Chicken?\nAnswer: After frying, the chicken is brushed with a paste made from hot frying oil mixed with a proprietary spice blend.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-017",
+    "title": "What frying temperature is used for Dave's Hot Chicken?",
+    "text": "Question: At what temperature is Dave's Hot Chicken fried?\nAnswer: The chicken is fried in oil at approximately 350°F before the spice oil paste is applied.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-018",
+    "title": "What fat is sometimes used in copycat spice oil versions?",
+    "text": "Question: What fat is sometimes used in copycat versions of the Dave's Hot Chicken spice oil?\nAnswer: Some variations use rendered bacon fat instead of neutral oil to add a smoky flavor.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-019",
+    "title": "What oil base does the commercial chain use for spice paste?",
+    "text": "Question: What oil base does the commercial Dave's Hot Chicken chain use for its spice paste?\nAnswer: The commercial chain uses a scalable vegetable oil base for the spice-infused paste.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-005",
+    "title": "How many spice levels does Dave's Hot Chicken offer?",
+    "text": "Question: How many spice levels does Dave's Hot Chicken offer?\nAnswer: Dave's Hot Chicken offers a seven-tier heat index designed to accommodate a wide range of spice preferences.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-006",
+    "title": "What is the spiciest level at Dave's Hot Chicken?",
+    "text": "Question: What is the spiciest heat level at Dave's Hot Chicken?\nAnswer: The spiciest level is called \"Reaper,\" which uses ghost pepper extracts and is significantly hotter than the other levels.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-007",
+    "title": "Do customers need to sign a waiver for the Reaper level?",
+    "text": "Question: Do customers need to sign a waiver to try the Reaper heat level?\nAnswer: Yes, customers must sign a legal waiver before consuming the Reaper heat level.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-008",
+    "title": "How does the Reaper heat compare to other spice levels?",
+    "text": "Question: How does the Reaper spice level compare to other Dave's Hot Chicken heat levels?\nAnswer: While heat levels up to Extra Hot increase in a mostly linear progression, the Reaper level represents a much larger jump in capsaicin intensity.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-009",
+    "title": "What ingredients are used in the No Spice level?",
+    "text": "Question: What ingredients define the No Spice level at Dave's Hot Chicken?\nAnswer: The No Spice level focuses on savory flavors using ingredients such as salt, garlic powder, black pepper, and herbs.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-010",
+    "title": "What characterizes the Lite Mild spice level?",
+    "text": "Question: What characterizes the Lite Mild spice level at Dave's Hot Chicken?\nAnswer: Lite Mild provides subtle warmth using small amounts of paprika and mild chili.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-011",
+    "title": "What defines the Mild spice level?",
+    "text": "Question: What defines the Mild spice level at Dave's Hot Chicken?\nAnswer: The Mild level uses balanced cayenne pepper to create a noticeable kick while still allowing the tangy pickle brine flavor to stand out.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-012",
+    "title": "What defines the Medium spice level?",
+    "text": "Question: What defines the Medium spice level at Dave's Hot Chicken?\nAnswer: The Medium level contains a moderate presence of cayenne pepper and garlic powder to create a standard level of spice.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-013",
+    "title": "What defines the Hot spice level?",
+    "text": "Question: What defines the Hot spice level at Dave's Hot Chicken?\nAnswer: The Hot level features a high concentration of cayenne pepper combined with dark brown sugar to create lingering heat.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-014",
+    "title": "What defines the Extra Hot spice level?",
+    "text": "Question: What defines the Extra Hot spice level at Dave's Hot Chicken?\nAnswer: Extra Hot includes smoky paprika and concentrated chili powders to produce an intense burning sensation.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-015",
+    "title": "What defines the Reaper spice level?",
+    "text": "Question: What defines the Reaper spice level at Dave's Hot Chicken?\nAnswer: The Reaper level uses ghost pepper extracts to create extreme heat and requires a customer waiver before ordering.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-008",
+    "title": "Why does Dave's Hot Chicken include palate modulators on the menu?",
+    "text": "Question: Why does Dave's Hot Chicken include palate modulators on the menu?\nAnswer: Palate modulators help reduce the physiological effects of extremely spicy chicken and provide relief between bites.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-009",
+    "title": "What palate modulators are served with Dave's Hot Chicken?",
+    "text": "Question: What palate modulators are served with Dave's Hot Chicken?\nAnswer: The menu includes house-made kale slaw and honey packets to help counteract the effects of spicy heat.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-010",
+    "title": "How does honey reduce the sensation of spicy heat?",
+    "text": "Question: How does honey help reduce the sensation of spicy heat when eating Dave's Hot Chicken?\nAnswer: The sugar in honey helps break down capsaicin molecules on the tongue, reducing the burning sensation.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-011",
+    "title": "How does kale slaw help with spicy food?",
+    "text": "Question: How does kale slaw help diners handle spicy heat at Dave's Hot Chicken?\nAnswer: The acidity in the kale slaw helps break down capsaicin molecules, providing relief from the spice.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-012",
+    "title": "What beverage strategy does Dave's Hot Chicken use for spicy food?",
+    "text": "Question: What beverage strategy does Dave's Hot Chicken use to help customers handle spicy food?\nAnswer: The restaurant emphasizes cooling beverages such as slushies that help counteract the heat of spicy chicken.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-013",
+    "title": "Which frozen drinks are commonly paired with Dave's Hot Chicken?",
+    "text": "Question: Which frozen drinks are commonly paired with Dave's Hot Chicken?\nAnswer: Popular cooling drinks include Frozen Hi-C Flashin' Fruit Punch and Powerade Mountain Berry Blast slushies.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-014",
+    "title": "Why are slushies preferred over carbonated soda with hot chicken?",
+    "text": "Question: Why are slushies preferred over carbonated sodas when eating Dave's Hot Chicken?\nAnswer: Slushies provide cooling relief, while carbonated sodas can intensify the burning sensation caused by hot peppers.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-015",
+    "title": "Who developed the marketing strategy for Dave's Hot Chicken?",
+    "text": "Question: Who developed the marketing strategy and visual identity for Dave's Hot Chicken?\nAnswer: Arman Oganesyan developed the brand's aesthetic and marketing strategy, focusing on a bold visual identity that matched the intensity of the food.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-016",
+    "title": "Why did Dave's Hot Chicken choose a loud visual identity?",
+    "text": "Question: Why did Dave's Hot Chicken adopt a loud visual identity for its brand?\nAnswer: The visual identity was designed to be as loud and attention-grabbing as the flavor of the chicken, helping the brand stand out and appeal to younger audiences.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-017",
+    "title": "What is the mascot logo of Dave's Hot Chicken?",
+    "text": "Question: What mascot logo does Dave's Hot Chicken use?\nAnswer: Dave's Hot Chicken uses a limp rubber chicken as its logo.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-028",
+    "title": "Where did the rubber chicken logo come from?",
+    "text": "Question: Where did the rubber chicken mascot used by Dave's Hot Chicken come from?\nAnswer: The rubber chicken mascot was found at a local swap meet while the founders were searching for inexpensive kitchen equipment.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-018",
+    "title": "Why was the rubber chicken mascot chosen?",
+    "text": "Question: Why did Dave's Hot Chicken choose a rubber chicken mascot?\nAnswer: The mascot was chosen to create a memorable and quirky brand symbol that would resonate with younger, social-media-oriented audiences.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-019",
+    "title": "What aesthetic style do Dave's Hot Chicken restaurants use?",
+    "text": "Question: What aesthetic style do Dave's Hot Chicken restaurants use?\nAnswer: The restaurants feature a rough, street-art-inspired aesthetic rather than the standardized look typical of traditional fast-food chains.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-020",
+    "title": "Which art collective designs murals for Dave's Hot Chicken?",
+    "text": "Question: Which art collective designs murals for Dave's Hot Chicken locations?\nAnswer: Murals for most Dave's Hot Chicken locations are created by the Los Angeles-based art collective Splatter Haus.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-021",
+    "title": "How common are Splatter Haus murals in Dave's Hot Chicken restaurants?",
+    "text": "Question: How common are Splatter Haus murals in Dave's Hot Chicken restaurants?\nAnswer: Splatter Haus designs custom hand-painted murals for nearly 98 percent of Dave's Hot Chicken locations.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-022",
+    "title": "Are Dave's Hot Chicken murals the same at every location?",
+    "text": "Question: Are the murals in Dave's Hot Chicken restaurants identical across locations?\nAnswer: No, the murals are site-specific and often incorporate local cultural references unique to each location.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-023",
+    "title": "What local elements appear in the Northridge Dave's Hot Chicken murals?",
+    "text": "Question: What local cultural elements appear in the Northridge, California Dave's Hot Chicken murals?\nAnswer: The Northridge location features murals referencing the Spurs basketball team and local high school rivalries.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-024",
+    "title": "What unique decoration appears in the Denver Dave's Hot Chicken location?",
+    "text": "Question: What unique decorative feature appears in the Denver Dave's Hot Chicken location?\nAnswer: The Denver location features the Dave chicken mascot represented by a mannequin dressed as a snowboarder sitting on a real chairlift suspended from the ceiling.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-025",
+    "title": "Why does Dave's Hot Chicken emphasize street art in its restaurants?",
+    "text": "Question: Why does Dave's Hot Chicken emphasize street art and murals in its restaurants?\nAnswer: The street-art environment acts as a visual billboard and creates a shareable setting that encourages customers to post photos on platforms like Instagram and TikTok.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-026",
+    "title": "How is social media connected to Dave's Hot Chicken growth?",
+    "text": "Question: How is social media connected to the growth of Dave's Hot Chicken?\nAnswer: The brand's rapid growth is closely tied to its strong presence on social media platforms, which has helped amplify visibility and consumer engagement.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-027",
+    "title": "Which platform has Dave's Hot Chicken focused on since 2022?",
+    "text": "Question: Which social media platform has Dave's Hot Chicken heavily focused on since 2022?\nAnswer: Since 2022, Dave's Hot Chicken has focused heavily on TikTok for marketing and audience engagement.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-028",
+    "title": "What type of content does Dave's Hot Chicken share on TikTok?",
+    "text": "Question: What type of content does Dave's Hot Chicken primarily share on TikTok?\nAnswer: The brand primarily shares user-generated content rather than traditional corporate advertisements.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-029",
+    "title": "Why does the Reaper Challenge attract attention online?",
+    "text": "Question: Why does the Reaper Challenge attract attention on social media?\nAnswer: The extreme heat of the Reaper spice level creates challenge-style content that generates millions of views and fuels online hype.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-016",
+    "title": "What is the Reaper Challenge?",
+    "text": "Question: What is the Reaper Challenge associated with Dave's Hot Chicken?\nAnswer: The Reaper Challenge involves eating the extremely spicy Reaper-level chicken, which has become popular challenge content online.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-030",
+    "title": "What impact did Drake's investment have on Dave's Hot Chicken?",
+    "text": "Question: What impact did Drake's investment have on Dave's Hot Chicken?\nAnswer: Drake's investment elevated the brand's cultural influence and pushed it beyond the food industry into mainstream popular culture.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-031",
+    "title": "When did Drake become involved with Dave's Hot Chicken?",
+    "text": "Question: When did Drake become a major investor and brand ambassador for Dave's Hot Chicken?\nAnswer: Drake became a major investor and brand ambassador for Dave's Hot Chicken in 2021.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-032",
+    "title": "What promotional event did Dave's Hot Chicken run for Drake's birthday?",
+    "text": "Question: What promotional event did Dave's Hot Chicken run for Drake's birthday?\nAnswer: On Drake's birthday, the chain gave away free combo meals to fans, creating large crowds and strong publicity.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-033",
+    "title": "How did Drake's birthday promotion affect the brand?",
+    "text": "Question: How did Drake's birthday promotion affect Dave's Hot Chicken?\nAnswer: The promotion created massive queues and publicity, reinforcing the brand's reputation as a must-visit destination for younger consumers.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-034",
+    "title": "Which other celebrities invested in Dave's Hot Chicken?",
+    "text": "Question: Which other celebrities have invested in Dave's Hot Chicken?\nAnswer: Other celebrity investors include Samuel L. Jackson, Usher, and Michael Strahan.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-035",
+    "title": "What effect do celebrity investors have on the brand?",
+    "text": "Question: What effect do celebrity investors have on Dave's Hot Chicken?\nAnswer: Celebrity investors create a prestige halo effect that enhances the brand's cultural appeal and credibility.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-029",
+    "title": "How many Dave's Hot Chicken locations exist in the United States as of 2026?",
+    "text": "Question: How many Dave's Hot Chicken locations exist in the United States as of early 2026?\nAnswer: As of early 2026, Dave's Hot Chicken has approximately 390 locations across the United States.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-030",
+    "title": "How many additional Dave's Hot Chicken franchise units have been sold?",
+    "text": "Question: How many additional Dave's Hot Chicken franchise units have been sold for future development?\nAnswer: More than 1,200 additional Dave's Hot Chicken units have already been sold to franchisees for future development.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-031",
+    "title": "What type of domestic markets does Dave's Hot Chicken target?",
+    "text": "Question: What type of domestic markets does Dave's Hot Chicken target for expansion in the United States?\nAnswer: The brand focuses on high-population-density states with strong demand for spicy food and poultry-focused fast-casual dining.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-032",
+    "title": "Which state has the most Dave's Hot Chicken locations?",
+    "text": "Question: Which state has the highest number of Dave's Hot Chicken locations?\nAnswer: California has the highest number of Dave's Hot Chicken locations and serves as the brand's primary domestic hub.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-033",
+    "title": "What percentage of Dave's Hot Chicken US locations are in California?",
+    "text": "Question: What percentage of Dave's Hot Chicken locations in the United States are located in California?\nAnswer: Approximately 19 percent of the brand's U.S. locations are located in California.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-034",
+    "title": "Which states have large numbers of Dave's Hot Chicken locations besides California?",
+    "text": "Question: Which states have large numbers of Dave's Hot Chicken locations besides California?\nAnswer: Texas, Florida, and New York are among the states with significant numbers of Dave's Hot Chicken locations.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-035",
+    "title": "What expansion is planned in Minnesota?",
+    "text": "Question: What expansion plans does Dave's Hot Chicken have in Minnesota?\nAnswer: In 2026 the brand planned six new locations in Minnesota cities including Rogers, Edina, and Oak Park Heights.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-036",
+    "title": "How many Dave's Hot Chicken restaurants will Minnesota have after expansion?",
+    "text": "Question: How many Dave's Hot Chicken restaurants will Minnesota have after the new expansion?\nAnswer: The Minnesota expansion will bring the total number of Dave's Hot Chicken restaurants in the state to about 30.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-037",
+    "title": "Who operates the Minnesota franchise expansion?",
+    "text": "Question: Who operates the Minnesota expansion of Dave's Hot Chicken restaurants?\nAnswer: The Minnesota expansion is operated by a family-run franchisee group.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-038",
+    "title": "What strategy guides Dave's Hot Chicken international expansion?",
+    "text": "Question: What strategy guides Dave's Hot Chicken international expansion?\nAnswer: The company targets international regions with strong chicken-eating cultures and demand for bold flavor profiles.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-039",
+    "title": "What European partnership expanded Dave's Hot Chicken in 2025?",
+    "text": "Question: What European partnership expanded Dave's Hot Chicken in 2025?\nAnswer: In September 2025 Dave's Hot Chicken partnered with the UK-based Azzurri Group to expand across Europe.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-040",
+    "title": "How many European restaurants are planned under the Azzurri Group deal?",
+    "text": "Question: How many European restaurants are planned under the Azzurri Group expansion agreement?\nAnswer: The Azzurri Group deal plans to open 180 Dave's Hot Chicken restaurants across Europe.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-041",
+    "title": "Which European countries are included in the expansion plan?",
+    "text": "Question: Which European countries are included in the Dave's Hot Chicken expansion plan with the Azzurri Group?\nAnswer: The plan includes France, Germany, Spain, Italy, Portugal, Poland, Hungary, the Netherlands, Turkey, and the Czech Republic.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-042",
+    "title": "Which London location launched Dave's Hot Chicken in Europe?",
+    "text": "Question: Which London location launched Dave's Hot Chicken's European presence?\nAnswer: The European expansion followed the successful opening of the flagship location on Shaftesbury Avenue in London.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-043",
+    "title": "Which Middle Eastern countries have Dave's Hot Chicken locations?",
+    "text": "Question: Which Middle Eastern countries currently have Dave's Hot Chicken locations?\nAnswer: The chain operates in the United Arab Emirates, Qatar, Saudi Arabia, and Kuwait.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-044",
+    "title": "Which cities host Dave's Hot Chicken locations in the UAE?",
+    "text": "Question: Which cities or locations host Dave's Hot Chicken restaurants in the UAE?\nAnswer: UAE locations include Dubai Mall, Motor City, and JBR.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-045",
+    "title": "Where are Dave's Hot Chicken restaurants located in Qatar and Saudi Arabia?",
+    "text": "Question: Where are Dave's Hot Chicken restaurants located in Qatar and Saudi Arabia?\nAnswer: In Qatar the restaurant operates in Doha, and in Saudi Arabia it operates in Riyadh.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-046",
+    "title": "Why do Riyadh locations operate late at night?",
+    "text": "Question: Why do Dave's Hot Chicken locations in Riyadh operate with extended late-night hours?\nAnswer: Riyadh locations operate late at night to match local demand for spicy food after sunset.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-047",
+    "title": "Which future markets is Dave's Hot Chicken exploring?",
+    "text": "Question: Which future international markets is Dave's Hot Chicken exploring?\nAnswer: The company is exploring expansion into India, Mexico, China, and Southeast Asia.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-048",
+    "title": "What technology trends is Dave's Hot Chicken monitoring for future expansion?",
+    "text": "Question: What technology trends is Dave's Hot Chicken monitoring for future expansion models?\nAnswer: The company is monitoring Asia's adoption of AI-powered ordering systems and robotic kitchens to inform future fast-casual operations.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-049",
+    "title": "Why is Dave's Hot Chicken central to debates about Nashville-style hot chicken?",
+    "text": "Question: Why is Dave's Hot Chicken central to debates about Nashville-style hot chicken?\nAnswer: The brand sits at the center of debate because it helped transform Nashville-style hot chicken from a regional specialty into a globally scalable fast-casual product.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-017",
+    "title": "Which brands represent the legacy Nashville hot chicken segment?",
+    "text": "Question: Which brands represent the legacy Nashville hot chicken segment?\nAnswer: Prince's Hot Chicken and Hattie B's are often considered part of the legacy Nashville hot chicken segment.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-050",
+    "title": "Which restaurant represents the cult-premium hot chicken segment in Los Angeles?",
+    "text": "Question: Which restaurant represents the cult-premium hot chicken segment in Los Angeles?\nAnswer: Howlin' Ray's represents the cult-premium hot chicken segment in Los Angeles.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-051",
+    "title": "When did Dave's Hot Chicken enter the market?",
+    "text": "Question: When did Dave's Hot Chicken enter the market?\nAnswer: Dave's Hot Chicken entered the market in 2017 in Los Angeles.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-052",
+    "title": "What scaling strategy does Dave's Hot Chicken use?",
+    "text": "Question: What scaling strategy does Dave's Hot Chicken primarily use?\nAnswer: Dave's Hot Chicken uses a hyper-franchising strategy to rapidly expand its number of locations.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-053",
+    "title": "What differentiates Dave's Hot Chicken from competitors?",
+    "text": "Question: What differentiates Dave's Hot Chicken from many of its competitors?\nAnswer: Its key differentiators include a Michelin-trained recipe developer and strong celebrity investor backing.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-054",
+    "title": "What makes Hattie B's different from Dave's Hot Chicken?",
+    "text": "Question: What distinguishes Hattie B's from Dave's Hot Chicken in the market?\nAnswer: Hattie B's focuses on regional expansion and emphasizes its family-owned history and cafeteria-style menu.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-055",
+    "title": "What distinguishes Prince's Hot Chicken historically?",
+    "text": "Question: What distinguishes Prince's Hot Chicken historically in the Nashville hot chicken market?\nAnswer: Prince's Hot Chicken is known as the original creator of Nashville hot chicken and is famous for extremely high heat intensity.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-056",
+    "title": "What makes Howlin' Ray's unique among competitors?",
+    "text": "Question: What makes Howlin' Ray's unique compared to other hot chicken brands?\nAnswer: Howlin' Ray's emphasizes exclusivity, ultra-selective expansion, and strong chef-owner involvement.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-057",
+    "title": "What defines Gus's World Famous Fried Chicken brand?",
+    "text": "Question: What defines Gus's World Famous Fried Chicken as a competitor?\nAnswer: Gus's focuses on a secret recipe and specializes in bone-in fried chicken with a national niche presence.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-036",
+    "title": "How do critics compare Prince's and Dave's Hot Chicken?",
+    "text": "Question: How do critics compare Prince's Hot Chicken and Dave's Hot Chicken?\nAnswer: Critics often describe Prince's as representing the soul-food roots of hot chicken, while Dave's is associated with a more refined chef-driven execution.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-037",
+    "title": "What criticism do some purists have about Dave's Hot Chicken?",
+    "text": "Question: What criticism do some purists have about Dave's Hot Chicken?\nAnswer: Some critics argue that the brand's flavor profile can feel more corporate or overly salty compared to traditional Nashville hot chicken.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-058",
+    "title": "Why has Dave's Hot Chicken succeeded despite criticism?",
+    "text": "Question: Why has Dave's Hot Chicken succeeded commercially despite criticism from purists?\nAnswer: Its accessible no-frills model and rapid expansion have resonated strongly with general consumers.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-059",
+    "title": "How has Dave's Hot Chicken improved its quality ratings?",
+    "text": "Question: How has Dave's Hot Chicken improved its customer ratings during expansion?\nAnswer: The brand improved its ratings from about 3.8 to 4.7 stars by actively engaging with customer feedback and maintaining strong quality control.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-060",
+    "title": "What principle guides Dave's Hot Chicken expansion strategy?",
+    "text": "Question: What guiding principle shapes Dave's Hot Chicken expansion strategy?\nAnswer: Leadership emphasizes scaling with integrity while maintaining consistent quality across locations.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-020",
+    "title": "How does Dave's Hot Chicken maintain consistency across locations?",
+    "text": "Question: How does Dave's Hot Chicken maintain consistent food quality across global locations?\nAnswer: The brand implements rigorous training programs and standardized sourcing so that products taste consistent across locations.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-061",
+    "title": "What revenue target has Dave's Hot Chicken set for 2026?",
+    "text": "Question: What revenue target has Dave's Hot Chicken set for 2026?\nAnswer: The company has set a sales target of approximately $1.6 billion for 2026.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-038",
+    "title": "What marketing risk does Dave's Hot Chicken face with TikTok?",
+    "text": "Question: What marketing risk does Dave's Hot Chicken face regarding TikTok?\nAnswer: A potential U.S. ban on TikTok could reduce the brand's organic marketing reach because its social strategy heavily relies on the platform.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-039",
+    "title": "How is Dave's Hot Chicken mitigating TikTok platform risk?",
+    "text": "Question: How is Dave's Hot Chicken mitigating the risk of a TikTok ban?\nAnswer: The brand is diversifying its social media strategy across platforms like Instagram Reels, Snapchat, and RedNote.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-062",
+    "title": "What competitive threat exists from large fast food chains?",
+    "text": "Question: What competitive threat does Dave's Hot Chicken face from major fast-food chains?\nAnswer: Companies such as McDonald's and Wendy's have reintroduced chicken tenders, increasing competition in the fried chicken market.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "food-culture-040",
+    "title": "How does Dave's Hot Chicken position itself against large chains?",
+    "text": "Question: How does Dave's Hot Chicken differentiate itself from large fast-food competitors?\nAnswer: The brand positions itself as an outsider brand with superior quality and a crave-worthy spicy flavor profile.",
+    "metadata": {
+      "topic": "food-culture",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-063",
+    "title": "How are Dave's Hot Chicken investors diversifying their portfolio?",
+    "text": "Question: How are Dave's Hot Chicken investors diversifying their food brand portfolio?\nAnswer: Investors are expanding into additional viral food concepts such as Mike's Red Tacos.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-064",
+    "title": "What leadership change signals the next phase of growth?",
+    "text": "Question: What leadership change signals the next phase of growth for Dave's Hot Chicken?\nAnswer: The promotion of Jim Bitticks to CEO signals a shift toward operational maturation under Roark Capital.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-065",
+    "title": "What long-term financial milestone is Dave's Hot Chicken pursuing?",
+    "text": "Question: What long-term financial milestone is Dave's Hot Chicken pursuing?\nAnswer: The company is working toward a future initial public offering while continuing rapid expansion.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-066",
+    "title": "How many total Dave's Hot Chicken stores are in development?",
+    "text": "Question: How many Dave's Hot Chicken stores are currently in the development pipeline?\nAnswer: Nearly 1,500 Dave's Hot Chicken locations are currently planned or in development.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-067",
+    "title": "What revenue scale is projected for Dave's Hot Chicken by the late 2020s?",
+    "text": "Question: What system-wide revenue scale is projected for Dave's Hot Chicken by the late 2020s?\nAnswer: The brand is projected to approach $2 billion in system-wide revenue by the late 2020s.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-068",
+    "title": "What story defines the origins of Dave's Hot Chicken?",
+    "text": "Question: What story defines the origins of Dave's Hot Chicken?\nAnswer: The brand began as a $900 parking lot pop-up created by four friends and later grew into a major global fast-casual chain.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-069",
+    "title": "What menu philosophy does Dave's Hot Chicken follow?",
+    "text": "Question: What menu philosophy does Dave's Hot Chicken follow?\nAnswer: Dave's Hot Chicken uses a specialized no-frills menu architecture designed to maximize operational efficiency and maintain consistent food quality.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-070",
+    "title": "What were the original core menu items at Dave's Hot Chicken?",
+    "text": "Question: What were the original core menu items at Dave's Hot Chicken?\nAnswer: The original menu focused primarily on chicken tenders and sliders.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-071",
+    "title": "How has the Dave's Hot Chicken menu expanded by 2026?",
+    "text": "Question: How has the Dave's Hot Chicken menu expanded by March 2026?\nAnswer: The menu expanded to include plant-based alternatives, indulgent sides, new specialty items, and an expanded beverage program.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-018",
+    "title": "What comes with Dave's Hot Chicken tenders?",
+    "text": "Question: How are Dave's Hot Chicken tenders typically served?\nAnswer: Tenders are served on white bread with pickles and Dave's Sauce.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "nashville-hot-chicken-019",
+    "title": "What toppings are on Dave's Hot Chicken sliders?",
+    "text": "Question: What toppings are included on Dave's Hot Chicken sliders?\nAnswer: Sliders are served on potato buns with kale slaw, pickles, and Dave's Sauce.",
+    "metadata": {
+      "topic": "nashville-hot-chicken",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-072",
+    "title": "What is Dave's #1 combo meal?",
+    "text": "Question: What is included in Dave's #1 combo meal?\nAnswer: Dave's #1 includes two chicken tenders served with fries.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-073",
+    "title": "What is Dave's #2 combo meal?",
+    "text": "Question: What is included in Dave's #2 combo meal?\nAnswer: Dave's #2 includes two sliders served with fries.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-074",
+    "title": "What is Dave's #3 combo meal?",
+    "text": "Question: What is included in Dave's #3 combo meal?\nAnswer: Dave's #3 includes one tender and one slider served with fries.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-075",
+    "title": "What is Dave's #4 combo meal?",
+    "text": "Question: What is included in Dave's #4 combo meal?\nAnswer: Dave's #4 includes one slider served with fries.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-076",
+    "title": "What are Dave's Mini Sliders?",
+    "text": "Question: What are Dave's Mini Sliders?\nAnswer: Dave's Mini Sliders are snack-sized sliders that can be ordered individually or in Mini Slider Hot Boxes.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-077",
+    "title": "What is Dave's NOT Chicken?",
+    "text": "Question: What is Dave's NOT Chicken?\nAnswer: Dave's NOT Chicken is a plant-based menu option made from seasoned and fried cauliflower.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-078",
+    "title": "When was Dave's NOT Chicken introduced?",
+    "text": "Question: When was Dave's NOT Chicken introduced?\nAnswer: Dave's NOT Chicken was introduced in 2024.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-079",
+    "title": "What plant-based menu items are available?",
+    "text": "Question: What plant-based menu items are available at Dave's Hot Chicken?\nAnswer: Plant-based options include cauliflower tenders, cauliflower sliders, and cauliflower tender bites.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-080",
+    "title": "What are Saucy Bites?",
+    "text": "Question: What are Saucy Bites at Dave's Hot Chicken?\nAnswer: Saucy Bites are all-white meat boneless chicken pieces tossed in different sauces.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-081",
+    "title": "What sauce flavors are available for Saucy Bites?",
+    "text": "Question: What sauce flavors are available for Saucy Bites?\nAnswer: Sauce flavors include Mike's Hot Honey, Spicy Buffalo, Spicy BBQ, and Hot Honey Teriyaki.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-082",
+    "title": "What are Hot Boxes at Dave's Hot Chicken?",
+    "text": "Question: What are Hot Boxes at Dave's Hot Chicken?\nAnswer: Hot Boxes are large-format meal containers designed for groups and are available with tenders, sliders, or saucy bites.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-083",
+    "title": "What is the Roulette Box?",
+    "text": "Question: What is the Roulette Box at Dave's Hot Chicken?\nAnswer: The Roulette Box is a party-style option that includes mixed spice levels with one hidden Reaper-level item.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-084",
+    "title": "What new items were added in March 2026?",
+    "text": "Question: What new menu items were introduced in March 2026?\nAnswer: New additions include Hot Mozz mozzarella sticks and Top-Loaded Spicy Buffalo Mac & Cheese.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-085",
+    "title": "What are Hot Mozz items?",
+    "text": "Question: What are Hot Mozz items at Dave's Hot Chicken?\nAnswer: Hot Mozz are thick-cut mozzarella sticks breaded and coated with the brand's signature spice blends.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-086",
+    "title": "What is Top-Loaded Spicy Buffalo Mac & Cheese?",
+    "text": "Question: What is Top-Loaded Spicy Buffalo Mac & Cheese?\nAnswer: It is creamy mac and cheese topped with fries, ranch dressing, spicy buffalo sauce, and chicken or cauliflower bites.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-087",
+    "title": "What are the standard side dishes?",
+    "text": "Question: What side dishes are commonly served at Dave's Hot Chicken?\nAnswer: Standard sides include crinkle-cut fries, cheese fries, mac and cheese, and kale slaw.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-088",
+    "title": "What are Top-Loaded Fries?",
+    "text": "Question: What are Top-Loaded Fries at Dave's Hot Chicken?\nAnswer: Top-Loaded Fries are fries topped with cheese sauce, pickles, kale slaw, chopped chicken or cauliflower, and Dave's Sauce.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-089",
+    "title": "What add-ons can customers order?",
+    "text": "Question: What add-ons can customers order at Dave's Hot Chicken?\nAnswer: Add-ons include American cheese slices, extra pickles, honey packets, and additional Dave's Sauce.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-090",
+    "title": "What types of slushers are available?",
+    "text": "Question: What slusher drinks are available at Dave's Hot Chicken?\nAnswer: Slushers include Frozen Minute Maid Strawberry Lemonade, Hi-C Flashin' Fruit Punch, Powerade Mountain Berry Blast, and Hi-C Orange LavaBurst.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-091",
+    "title": "What are Creme Slushers?",
+    "text": "Question: What are Creme Slushers at Dave's Hot Chicken?\nAnswer: Creme Slushers are creamy frozen drinks such as Rocket Creme, Orange Creme, and Strawberries & Creme.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-092",
+    "title": "What are Top-Loaded Shakes?",
+    "text": "Question: What are Top-Loaded Shakes at Dave's Hot Chicken?\nAnswer: Top-Loaded Shakes are thick milkshakes topped with cereals or candies such as Oreo, M&M, Lucky Charms, Cocoa Puffs, or Fruity Pebbles.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-093",
+    "title": "What are Burstin' Beverages?",
+    "text": "Question: What are Burstin' Beverages at Dave's Hot Chicken?\nAnswer: Burstin' Beverages allow customers to add popping fruit pearls called Bursties to slushers or shakes.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-094",
+    "title": "What are Bursties in Dave's drinks?",
+    "text": "Question: What are Bursties used in Dave's Hot Chicken drinks?\nAnswer: Bursties are popping pearls available in flavors like strawberry or mango that can be added to beverages.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-095",
+    "title": "What is the Mega Slider secret menu item?",
+    "text": "Question: What is the Mega Slider secret menu item?\nAnswer: The Mega Slider is a slider modified to include two tenders instead of one.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-096",
+    "title": "What is the Double Spice Tender?",
+    "text": "Question: What is the Double Spice Tender secret menu item?\nAnswer: The Double Spice Tender is a single tender prepared with two different spice levels applied to separate halves.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-097",
+    "title": "What is the Fire and Ice Combo?",
+    "text": "Question: What is the Fire and Ice Combo secret menu item?\nAnswer: The Fire and Ice Combo pairs a Reaper-level spicy tender with a cooling milkshake.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-098",
+    "title": "What breakfast item has been tested by Dave's Hot Chicken?",
+    "text": "Question: What breakfast item has been tested by Dave's Hot Chicken?\nAnswer: A Breakfast Chicken Biscuit with egg and chicken has been tested at the Las Vegas International Airport location.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-099",
+    "title": "Does Dave's Hot Chicken offer a fully vegan main course?",
+    "text": "Question: Does Dave's Hot Chicken offer a strictly vegan main course?\nAnswer: No, Dave's Hot Chicken currently does not offer a strictly vegan main course, though it provides vegetarian-friendly cauliflower-based options.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-100",
+    "title": "What vegetarian alternative does Dave's Hot Chicken offer?",
+    "text": "Question: What vegetarian alternative does Dave's Hot Chicken offer?\nAnswer: Dave's Hot Chicken offers a plant-based option called Dave's NOT Chicken made from seasoned and fried cauliflower.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-101",
+    "title": "Why is Dave's NOT Chicken not considered vegan?",
+    "text": "Question: Why is Dave's NOT Chicken not considered vegan?\nAnswer: It is not vegan because the breading contains eggs and dairy, the buns contain milk, Dave's Sauce and slaw dressing contain mayonnaise with eggs, and the cauliflower is typically fried in shared fryers with chicken.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-102",
+    "title": "What was the founder paradox at Dave's Hot Chicken?",
+    "text": "Question: What is known as the founder paradox at Dave's Hot Chicken?\nAnswer: When Dave's Hot Chicken was founded in 2017, chef Dave Kopushyan was actually a vegetarian working at a vegetarian restaurant.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-103",
+    "title": "Where was Dave Kopushyan working when the concept started?",
+    "text": "Question: Where was Dave Kopushyan working when the Dave's Hot Chicken concept began?\nAnswer: He was working at Elf Café in Echo Park, a well-known vegetarian restaurant.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-021",
+    "title": "How did Dave Kopushyan develop the chicken recipe as a vegetarian?",
+    "text": "Question: How did Dave Kopushyan develop the chicken recipe while being vegetarian?\nAnswer: He relied on objective sensory analysis and feedback from roommates and friends to refine the moisture, texture, and spice profile.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-104",
+    "title": "Why did Dave's Hot Chicken create a plant-based option?",
+    "text": "Question: Why did Dave's Hot Chicken develop a plant-based alternative?\nAnswer: The brand developed a plant-based option after years of customer requests for a meatless menu item.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-022",
+    "title": "What plant-based alternatives were tested during development?",
+    "text": "Question: What plant-based alternatives did Dave's Hot Chicken test during development of Dave's NOT Chicken?\nAnswer: The brand initially tested manufactured plant-based meat substitutes but found them inferior in texture and flavor.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-023",
+    "title": "Why did Dave's choose cauliflower as the meat substitute?",
+    "text": "Question: Why did Dave's Hot Chicken choose cauliflower as the meat substitute?\nAnswer: The team found that whole cauliflower provided a better texture and flavor when prepared similarly to their chicken.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-105",
+    "title": "Where was the first test of Dave's NOT Chicken conducted?",
+    "text": "Question: Where was the first successful test of Dave's NOT Chicken conducted?\nAnswer: A successful test run took place in Oregon in late 2023.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-106",
+    "title": "When did Dave's NOT Chicken launch nationally?",
+    "text": "Question: When did Dave's NOT Chicken launch nationwide?\nAnswer: Dave's NOT Chicken was launched nationwide on January 8, 2024.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "cooking-techniques-024",
+    "title": "How is Dave's NOT Chicken prepared?",
+    "text": "Question: How is Dave's NOT Chicken prepared?\nAnswer: Fresh heads of cauliflower are hand-sliced into tender and nugget shapes, seasoned with the brand's spice levels, and fried to order.",
+    "metadata": {
+      "topic": "cooking-techniques",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-107",
+    "title": "How many locations offered Dave's NOT Chicken at launch?",
+    "text": "Question: How many Dave's Hot Chicken locations offered Dave's NOT Chicken at its launch?\nAnswer: At launch, Dave's NOT Chicken was introduced at all 180 locations.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-108",
+    "title": "What April Fools prank involved Dave's Hot Chicken in 2025?",
+    "text": "Question: What April Fools prank involved Dave's Hot Chicken in 2025?\nAnswer: A satirical report claimed the brand would switch to an all-vegan menu made of soy and tofu to address health concerns.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-109",
+    "title": "How did fans react to the 2025 vegan rumor?",
+    "text": "Question: How did fans initially react to the 2025 vegan rumor about Dave's Hot Chicken?\nAnswer: Many fans initially believed the satirical report was a real strategic shift before realizing it was an April Fools joke.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-110",
+    "title": "Why was cauliflower temporarily removed from some menus in 2025?",
+    "text": "Question: Why was cauliflower temporarily removed from some Dave's Hot Chicken menus in late 2025?\nAnswer: Some locations removed it due to seasonal supply shortages from their cauliflower suppliers.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-111",
+    "title": "When was cauliflower expected to return after the supply shortage?",
+    "text": "Question: When was cauliflower expected to return after the late 2025 supply shortage?\nAnswer: The cauliflower menu items were expected to return as a permanent option in early 2026.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-112",
+    "title": "What vegetarian comfort food items were added in 2026?",
+    "text": "Question: What vegetarian comfort food items were added in March 2026?\nAnswer: The brand added Hot Mozz mozzarella sticks and Spicy Buffalo Cauli Mac.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-113",
+    "title": "What vegan options are considered safe at Dave's Hot Chicken?",
+    "text": "Question: What vegan options are considered safe at Dave's Hot Chicken?\nAnswer: The only confirmed vegan-safe options are fries cooked in the dedicated fryer and pickles.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  },
+  {
+    "source_id": "restaurant-history-114",
+    "title": "What vegan hacks do some customers attempt?",
+    "text": "Question: What vegan hacks do some customers attempt at Dave's Hot Chicken?\nAnswer: Some customers try ordering cauliflower without breading or serving it on plain bread, though cross-contact risks remain.",
+    "metadata": {
+      "topic": "restaurant-history",
+      "type": "qa"
+    }
+  }
+]
+
